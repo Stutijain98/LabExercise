@@ -40,7 +40,7 @@ Exercise 3: Creating Tables
  Task 3: Create the CampaignResponse Table   
 
 
---> Create table CampaignResponses(
+--> Create table DirectMarketing.CampaignResponses(
     CampaignId int NOT NULL,
     CampaignName VARCHAR(50) NOT NULL,
     Location VARCHAR(50) NOT NULL,
